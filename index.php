@@ -1,1 +1,1 @@
-<?php echo 'Called index file!'; ?>
+<?php echo 'Hello world hiiiiiiiii thia s!'; ?>
