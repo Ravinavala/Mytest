@@ -1,0 +1,1 @@
+<?php echo 'Called index file!'; ?>
